@@ -1,0 +1,17 @@
+生成核对报告
+影片数据条数：1975
+独立详情页数量：1975
+独立分类页数量：10
+M3U8 播放源数量：20，详情页按影片顺序循环绑定。
+分类覆盖：
+- category-01.html 热播剧集: 198 部
+- category-02.html 剧情精选: 198 部
+- category-03.html 喜剧轻松: 198 部
+- category-04.html 爱情片库: 198 部
+- category-05.html 动作冒险: 198 部
+- category-06.html 悬疑犯罪: 197 部
+- category-07.html 科幻奇幻: 197 部
+- category-08.html 动画专区: 197 部
+- category-09.html 家庭成长: 197 部
+- category-10.html 经典推荐: 197 部
+封面引用规则：第 N 条影片引用 ./X.jpg，X = ((N - 1) % 150) + 1；ZIP 内不包含 JPG 文件。
